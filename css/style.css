@@ -82,7 +82,9 @@ header .container {
 .wallet-btn {
   border-radius: 5rem;
   margin-left: 2rem;
-  border-color: transparent;
+  font-family: var(--font-color);
+  
+  
 }
 
 .hero-btn {

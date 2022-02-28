@@ -82,8 +82,8 @@ header .container {
 .wallet-btn {
   border-radius: 5rem;
   margin-left: 2rem;
-  font-family: var(--font-color);
-  
+  border-color: transparent;
+  color: var(--font-color);
   
 }
 
